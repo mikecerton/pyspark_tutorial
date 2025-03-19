@@ -1,4 +1,4 @@
-# PySpark Basic Example
+# PySpark Basic
 
 This repository contains a basic example of using PySpark to load, transform, and display data. The example demonstrates initializing a Spark session, loading data from a CSV file, performing transformations, and viewing results.
 
